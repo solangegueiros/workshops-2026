@@ -14,4 +14,5 @@ contract RegisterLog {
     function getInfo() public view returns (string memory) {
         return storedInfo;
     }
+    
 }
